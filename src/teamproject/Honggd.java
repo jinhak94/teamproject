@@ -9,14 +9,14 @@ package teamproject;
  * 
  *
  */
+
+
+
+
+
 public class Honggd {
-//<<<<<<< HEAD
-	public void hihi() {
-		System.out.println("제이");
-		
-//=======
-//	public void hello() {
-//		System.out.println("khstudy짱!");
-//>>>>>>> branch 'master' of https://github.com/jinhak94/teamproject.git
+
+	public void hello() {
+		System.out.println("안녕하세요");
 	}
 }
