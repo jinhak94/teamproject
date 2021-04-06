@@ -9,8 +9,14 @@ package teamproject;
  * 
  *
  */
-public class Honggd {
+
+
+
+
+
+public class Honggd1 {
 	public void hello() {
-		System.out.println("khstudy짱!");
+
+
 	}
 }
