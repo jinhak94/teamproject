@@ -10,5 +10,8 @@ package teamproject;
  *
  */
 public class Honggd {
-
+	public void hihi() {
+		System.out.println("제이");
+		
+	}
 }
