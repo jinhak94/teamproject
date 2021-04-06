@@ -10,5 +10,7 @@ package teamproject;
  *
  */
 public class Honggd {
-
+	public void hello() {
+		System.out.println("khstudy짱!");
+	}
 }
