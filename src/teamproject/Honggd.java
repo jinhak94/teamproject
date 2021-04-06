@@ -15,8 +15,8 @@ package teamproject;
 
 
 public class Honggd {
+
 	public void hello() {
-
-
+		System.out.println("안녕하세요");
 	}
 }
