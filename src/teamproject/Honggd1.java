@@ -6,7 +6,7 @@ package teamproject;
  * 
  * 
  */
-public class Honggd {
+public class Honggd1 {
 	
 	public void Hello(){
 		System.out.println("likejordan1 깃ㅅㅂ.");
