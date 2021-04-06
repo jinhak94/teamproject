@@ -8,5 +8,9 @@ package teamproject;
  */
 
 public class Parksoyeon {
+	
+	public void hello() {
+		System.out.println("박소연 짱짱맨!");
+	}
 
 }
