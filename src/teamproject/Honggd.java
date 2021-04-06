@@ -14,7 +14,7 @@ package teamproject;
 
 
 
-public class Honggd1 {
+public class Honggd {
 	public void hello() {
 
 
