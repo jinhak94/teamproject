@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>TEAMPROJECT</title>
 </head>
 <body>
 	<h1>TeamProject</h1>
