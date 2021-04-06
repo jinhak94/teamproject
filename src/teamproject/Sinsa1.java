@@ -1,5 +1,5 @@
 package teamproject;
 
-public class Sinsa {
+public class Sinsa1 {
 
 }
